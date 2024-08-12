@@ -1,1236 +1,591 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1723493821035 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496597423 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493824101 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496600484 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493827185 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496603547 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493830240 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496606611 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493833309 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496609667 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493836379 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496612734 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493839443 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496615813 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493842502 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496618882 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493845563 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496621955 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493848627 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496625015 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493851693 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496628079 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493854770 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496631139 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493857831 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496646236 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493860900 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496649298 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493863960 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496652365 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493867018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496655440 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493870086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496658519 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493873146 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496661600 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493876204 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496664665 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493879281 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496667725 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493882349 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496682816 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493885414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496685873 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493888477 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496688935 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493891543 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496691996 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493894612 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496695064 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493897671 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496698128 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493900741 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496713228 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493903810 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496716287 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493906871 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496731387 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493909928 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496734451 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493912999 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496749571 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493916066 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496752625 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493919153 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496755688 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493922223 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496770794 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493925286 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496773862 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493928347 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496789047 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493931414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496792110 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493934478 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496795175 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493937539 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496810266 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493940608 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496813330 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493943680 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496828418 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493946754 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496831473 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493949826 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496834531 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493952882 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496849632 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493955944 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496852705 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493959009 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496855770 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493962071 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496870859 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493965125 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496873931 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493968187 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496889036 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493971244 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496892103 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493974309 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496895161 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493977380 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496910260 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493980436 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496913316 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493983501 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496928411 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493986559 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496931480 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493989617 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496934579 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493992672 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496949683 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493995733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496952750 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723493998797 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496955808 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494001856 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496958871 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494004926 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496973993 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494007982 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723496989090 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494011051 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496992149 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494014107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723496995211 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494017167 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497010323 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494020229 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497013393 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494023290 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497028512 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494026348 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497031583 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494029445 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497034654 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494032510 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497049755 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494035563 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497052821 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494038623 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497055884 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494041682 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497070999 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494044752 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497074071 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494047818 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497089177 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494050881 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497092242 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494053943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497095302 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494057010 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497110401 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494060079 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497125522 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494063138 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497128589 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494066212 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497143686 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494069272 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497158788 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494072339 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.19): 1723497161853 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494075400 tunnel running, 1 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723497176943 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494078456 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494081513 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494084701 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494087755 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494090813 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494093882 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494096944 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494100000 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494103065 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494106126 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494109185 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494112254 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494115325 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494118408 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494121488 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494124547 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494127605 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494130663 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494133721 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494136782 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494139843 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494142901 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494145957 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494149021 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494152077 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494155133 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494158189 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494161249 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494164321 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494167387 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494170450 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494173514 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494176581 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494179640 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494182713 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494185770 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494188828 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494191884 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494194959 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494198023 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494201082 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494204149 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494207199 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494210260 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494213318 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494216383 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494219458 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494222524 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494225587 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494228659 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494231726 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494234783 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494237851 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494240920 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494243989 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494247046 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494250106 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494253164 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494256224 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494259278 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494262337 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494265392 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494268449 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494271506 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494274567 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494277621 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494280675 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494283739 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494286803 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494289859 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494292920 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494295989 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494299047 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494302105 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494305181 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494308246 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494311311 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494314372 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494317437 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494320500 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494323560 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494326622 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494329693 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494332768 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494335846 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494338902 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494341967 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494345026 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494348088 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494351143 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494354204 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494357263 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494360387 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494363447 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494366569 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494369630 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494372696 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494375755 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494378818 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494381888 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494384952 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494388010 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494391169 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494394224 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494397284 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494400364 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494403434 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494406526 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494409602 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494412665 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494415725 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494418783 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494421847 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494424912 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494427974 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494431040 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494434115 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494437182 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494440241 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494443301 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494446406 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.19): 1723494449675 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-death-sticky.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
